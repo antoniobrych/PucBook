@@ -1,0 +1,240 @@
+/* Moldura fundo */
+
+
+position: absolute;
+width: 1442px;
+height: 901px;
+
+background: #268BD2;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Caixa de mensagem Ciclano*/
+
+
+position: absolute;
+width: 1404px;
+height: 841px;
+
+background: #FDF6E3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Caixa de envio das mensagens */
+
+
+position: absolute;
+width: 546px;
+height: 74px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Botao envio mensagem 1 */
+
+
+position: absolute;
+width: 83px;
+height: 76px;
+
+background: #93A1A1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* 🦆 icon "arrow bend down right" */
+
+
+position: absolute;
+width: 34px;
+height: 32.98px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Moldura campo envio mensagem */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1140px;
+height: 76px;
+
+background: #657B83;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Fundo caixa mensagem */
+
+
+position: absolute;
+width: 1123px;
+height: 54px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Texto:Mensgem */
+
+
+position: absolute;
+width: 424px;
+height: 30px;
+
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Logo ciclano 2 */
+
+
+position: absolute;
+width: 143px;
+height: 130px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Logo Fulano */
+
+
+position: absolute;
+width: 143px;
+height: 130px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* imagem fulano 2 */
+
+
+position: absolute;
+width: 143px;
+height: 139px;
+
+background: url(download.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* imagem ciclano 3 */
+
+
+position: absolute;
+width: 143px;
+height: 139px;
+
+background: url(download.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Mensagem Ciclano */
+
+
+position: absolute;
+width: 565px;
+height: 118px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Mensagem de Fulano para Ciclano */
+
+
+position: absolute;
+width: 507px;
+height: 51px;
+
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Mensagem de Ciclano para */
+
+
+position: absolute;
+width: 521px;
+height: 64px;
+
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Status envio mensagem  */
+
+
+position: absolute;
+width: 576px;
+height: 73px;
+
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #013220;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Nome Fulano */
+
+
+position: absolute;
+width: 263px;
+height: 30px;
+
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Ciclano Carvalho */
+
+
+position: absolute;
+width: 263px;
+height: 40px;
+
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
